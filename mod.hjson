@@ -2,7 +2,7 @@ name: "landingpad-always-configurable"
 displayName: "Configurable Landing Pads"
 author: "50275"
 description: "Allows you to configure landing pads regardless of gamemode."
-subtitle: "Configurable Landing Pads"
+subtitle: "Configure landing pads in any gamemode."
 version: "2025-09-24"
 minGameVersion: 147
 hidden: true
