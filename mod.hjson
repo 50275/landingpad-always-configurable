@@ -6,4 +6,4 @@ subtitle: "Configure landing pads in any gamemode."
 version: "2025-09-24"
 minGameVersion: 147
 hidden: true
-repo: "50275/landingpad-always-configurable"
+repo: "50275/mindustry-landingpad-always-configurable"
